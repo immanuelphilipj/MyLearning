@@ -8,7 +8,7 @@ public class Developer extends Tester{
 	
 	public void writeTestCase(){
 		
-		System.out.println("-----------");
+		System.out.println("-PPPPPP");
 	}
 	
 	public void writeTestCase(String name){
